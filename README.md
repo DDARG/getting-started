@@ -2,7 +2,7 @@
 A place for us to share resources on our workflows and 'getting started' to work with DDARG
 
 
-## Getting started Git and GitHub
+## Getting started with Git and GitHub
 
 The are several books to learn about git. One of the most popular is**Pro Git**
 
