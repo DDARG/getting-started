@@ -1,8 +1,9 @@
-# getting-started
+<!-- the first lines should be removed soonish -->
+## getting-started
 A place for us to share resources on our workflows and 'getting started' to work with DDARG
 
 
-## Getting started with Git and GitHub
+# Getting started with Git and GitHub
 
 The are several books aimed to teach about git. One of the most popular is**Pro Git**
 
@@ -17,7 +18,7 @@ Arguably, the best introduction for R users is **Happy Git and GitHub for the us
 
 # Reproducible and collaborative analysis
 
-# Collaborative development of analysis and articles:
+## Collaborative development of analysis and articles:
 
 
 
