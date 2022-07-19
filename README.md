@@ -15,7 +15,9 @@ Arguably, the best introduction for R users is **Happy Git and GitHub for the us
 - Link to the github repo: https://github.com/jennybc/happy-git-with-r
 
 
-## Collaborative development of analysis and articles:
+# Reproducible and collaborative analysis
+
+# Collaborative development of analysis and articles:
 
 
 
